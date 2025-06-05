@@ -1,7 +1,7 @@
 # Hi there, I'm Egor! 👋
 
 <p align="center">
-  [<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&width=435&lines=I+%E2%9D%A4%EF%B8%8F+coding;Fullstack+developer;Python%2C+TypeScript%2C+Rust+%F0%9F%94%A5](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Python%20Java&fontAlign=50&strokeWidth=0&textBg=false)" alt="Typing SVG" />](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Python%20Java&fontAlign=50&strokeWidth=0&textBg=false)
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Python%20Java&fontAlign=50&strokeWidth=0&textBg=false" />
 </p>
 
 ---

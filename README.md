@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
  
-- 🧑‍💻 Automation, DevOps and backend
+- 🧑‍💻 Full-stack developer who loves automation and learning DevOps
 - 🧩 Creating web-apps // telegram-bots // game-plugins
 - 🎓 Bachelor in Computer Science
 - 🤼‍♂️ Candidate for Master of Sports in Sambo

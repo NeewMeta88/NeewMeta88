@@ -1,7 +1,7 @@
 # Hi there, I'm Egor! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&&color=0:EEFF00,30:99FF00,60:00FF66,80:19c37d,100:a82da8
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&&color=0:EEFF00,100:a82da8
 &text=Python%20Java&fontColor=FFFFFF" />
 </p>
 

@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Stack:** Python, TypeScript, React, FastAPI, Django, PostgreSQL, Docker, Rust  
+- 💻 **Stack:** Python, TypeScript, React, FastAPI, Django, PostgreSQL, Docker  
 - 🧑‍💻 Люблю автоматизацию, DevOps и бэкенд
 - 🧩 Пишу Telegram-ботов и игровые плагины (Rust, C#)
 - 🎓 Сейчас учусь и прокачиваюсь каждый день
@@ -41,9 +41,8 @@
 
 ## 🌍 Contacts
 
-- 📫 [Telegram](https://t.me/your_username)
-- 💼 [LinkedIn](https://linkedin.com/in/your_username)
-- ✉️ Email: your@email.com
+- 📫 [Telegram](https://t.me/f5nitsaa)
+- ✉️ Email: egor.rodionovv@gmail.com
 
 ---
 

@@ -41,7 +41,7 @@
 
 ## 🌍 Contacts
 
-- 📫 [Telegram](https://t.me/f5nitsaa)
+- 📫 Telegram: [f5nitsaa](https://t.me/f5nitsaa)
 - ✉️ Email: egor.rodionovv@gmail.com
 
 ---

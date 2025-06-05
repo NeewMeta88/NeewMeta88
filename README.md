@@ -7,11 +7,11 @@
 ---
 
 ## 🚀 About Me
-
-- 💻 **Stack:** Python, TypeScript, React, FastAPI, Django, PostgreSQL, Docker  
-- 🧑‍💻 Люблю автоматизацию, DevOps и бэкенд
-- 🧩 Пишу Telegram-ботов и игровые плагины (Rust, C#)
-- 🎓 Сейчас учусь и прокачиваюсь каждый день
+ 
+- 🧑‍💻 Automation, DevOps and backend
+- 🧩 Creating web-apps//telegram-bots//game-plugins
+- 🎓 Bachelor in Computer Science
+- 🤼‍♂️ Candidate for Master of Sports in Sambo
 
 ---
 

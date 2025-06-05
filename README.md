@@ -1,7 +1,7 @@
 # Hi there, I'm Egor! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=color=0:EEFF00,30:99FF00,60:00FF66,100:00B386&text=Python%20Java&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:EEFF00,30:99FF00,60:00FF66,100:00B386&text=Python&fontColor=FFFFFF" />
 </p>
 
 ---
@@ -23,19 +23,14 @@
   <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <br>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <br>
   <!-- Jenkins -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <br>
   <!-- Git -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <br>
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br>
   <!-- Docker -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>

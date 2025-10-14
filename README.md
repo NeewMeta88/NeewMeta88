@@ -10,7 +10,7 @@
  
 - 🧑‍💻 Full-stack developer who loves automation and learning DevOps
 - 🧩 Creating web-apps // telegram-bots // game-plugins
-- 🎓 Bachelor in Computer Science
+- 🎓 Bachelor in Computer Science // Master in Machine Learning // Entusiast in life
 - 🤼‍♂️ Candidate for Master of Sports in Sambo
 
 ---
